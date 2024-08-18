@@ -1,0 +1,7 @@
+actual_API_key
+actual_budget_sync_ID
+firefly_PAT
+firefly/json_accounts
+firefly/json_transaction
+**/*.pyc
+secrets.py
